@@ -22,7 +22,7 @@ Despite the hurdles we faced, we are immensely proud of the final product we hav
 # What we learned
 The journey of creating Learnly was a tremendous learning experience for our team. From technical skills like frontend and backend development to understanding user needs and preferences, we grew both individually and as a team. We learned the importance of collaboration, user feedback, and iterative development to create a successful and impactful product.
 
-# What's next for Learnly - An e-learning app
+# What's next for Learnly
 Looking ahead, we have ambitious plans for Learnly's future. We aim to continually expand our course offerings to encompass a wider range of subjects and skills, catering to learners of all interests and aspirations. Additionally, we will enhance the platform's interactivity by incorporating gamification elements and real-time collaboration features, encouraging active participation and knowledge sharing among users. Furthermore, we intend to leverage the latest advancements in artificial intelligence to provide intelligent course recommendations, ensuring that each user's learning journey remains engaging and relevant.
 
 Our vision for Learnly is to become a global platform that revolutionizes education, providing learners with an accessible, personalized, and transformative e-learning experience. As we move forward, we are committed to making Learnly the go-to destination for individuals seeking knowledge and personal growth.
