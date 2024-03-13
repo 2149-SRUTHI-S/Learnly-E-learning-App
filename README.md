@@ -1,6 +1,6 @@
 # Learnly
 
-Learnly is a cutting-edge, full-stack e-learning app that provides a comprehensive and user-friendly platform. With an extensive course library covering various subjects and skills, seamless video streaming, interactive comments, and doubt resolution, Learnly offers an immersive and collaborative learning experience.
+Learnly is a cutting-edge, full-stack e-learning app that provides a comprehensive and user-friendly platform. With an extensive course library covering various subjects and skills, seamless video streaming, interactive comments, and doubt resolution, Learnly offers an immersive and collaborative learning experience.  
 
 Demo Link: https://drive.google.com/file/d/1nHjx3neGGfTEDqMfLjsNxvCLKsDkYISc/view?usp=drivesdk
 
