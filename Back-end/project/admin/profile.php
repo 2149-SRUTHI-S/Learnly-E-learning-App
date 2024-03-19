@@ -5,7 +5,7 @@
    }else{
       $tutor_id = '';  
       header('location:login.php');
-   }
+   }  
    $select_playlists = $conn->prepare("SELECT * FROM `playlist` WHERE tutor_id = ?");
    $select_playlists->execute([$tutor_id]);    
    $total_playlists = $select_playlists->rowCount();  
