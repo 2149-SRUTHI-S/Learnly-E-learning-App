@@ -8,7 +8,7 @@
    }    
    $select_playlists = $conn->prepare("SELECT * FROM `playlist` WHERE tutor_id = ?");
    $select_playlists->execute([$tutor_id]);    
-   $total_playlists = $select_playlists->rowCount();  
+   $total_playlists = $select_playlists->rowCount();    
 
 
    $select_contents = $conn->prepare("SELECT * FROM `content` WHERE tutor_id = ?");
