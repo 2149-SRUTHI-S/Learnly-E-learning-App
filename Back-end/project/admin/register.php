@@ -1,5 +1,6 @@
 <?php
 include '../components/connect.php';
+
 if(isset($_POST['submit'])){
    $id = unique_id();
    $name = $_POST['name'];
